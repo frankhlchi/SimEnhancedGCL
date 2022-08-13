@@ -1,0 +1,16 @@
+Amazon-Photo:
+  pos_tau: 0.001
+  neg_tau: 0.1
+  f_weight: 0.5
+Amazon-Computers:
+  pos_tau: 0.1
+  neg_tau: 0.001
+  f_weight: 0.3
+WikiCS:
+  pos_tau: 0.5
+  neg_tau: 0.01
+  f_weight: 0.5
+Coauthor-CS:
+  pos_tau: 1
+  neg_tau: 0.01
+  f_weight: 0.7
