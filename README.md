@@ -20,4 +20,5 @@ GCA: https://github.com/CRIPAC-DIG/GCA \
 Graph-MLP: https://github.com/yanghu819/Graph-MLP 
 
 ## Running
-Please use the commands in the data_name_run.sh  to reproduce the reported results for the corresponding datasets, e.g.,GraphMLPPlus/cora_run.sh
+Please use the commands in the data_name_run.sh  to reproduce the reported results for the corresponding datasets;\
+e.g., To obtain Graph-MLP+ performance for the Cora Dataset, please run the commands in GraphMLPPlus/cora_run.sh
