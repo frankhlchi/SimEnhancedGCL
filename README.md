@@ -13,10 +13,10 @@ This is the code base for the paper "Enhancing Graph Contrastive Learning with N
 | Wiki-CS  | 11701 | 216123 | 300 | 10 |
 
 ## Reference
-The Simlarity Enhanced Models are modified based on the following repositories:\
+The Simlarity Enhanced Models are developed based on:\
 GRACE： https://github.com/CRIPAC-DIG/GRACE \
 GCA: https://github.com/CRIPAC-DIG/GCA \
 Graph-MLP: https://github.com/yanghu819/Graph-MLP 
 
 ## Running
-Please check the Run.ipynb in the corresponding folders
+Please use the commands the Run.ipynb to reproduce the reported results 
