@@ -16,6 +16,7 @@ This is the code base for the paper "Enhancing Graph Contrastive Learning with N
 The Simlarity Enhanced Models are modified based on the following repositories:\
 GRACE： https://github.com/CRIPAC-DIG/GRACE \
 GCA: https://github.com/CRIPAC-DIG/GCA \
-Graph-MLP: https://github.com/yanghu819/Graph-MLP \
+Graph-MLP: https://github.com/yanghu819/Graph-MLP 
 
 ## Running
+Please check the Run.ipynb in the corresponding folders
