@@ -1,11 +1,6 @@
 # SimEnhancedGCL
 This is the code base for the paper "Enhancing Graph Contrastive Learning with Node Similarity".
 
-The Simlarity Enhanced Models are modified based on the following  repositories:\
-GRACE： https://github.com/CRIPAC-DIG/GRACE \
-GCA: https://github.com/CRIPAC-DIG/GCA \
-Graph-MLP: https://github.com/yanghu819/Graph-MLP \
-
 ## DataSet Statistics
 | Dataset  | #Nodes | #Edges | #Features | #Classes |		
 | :---: | :---: | :---: | :---: | :---: |		
@@ -16,3 +11,11 @@ Graph-MLP: https://github.com/yanghu819/Graph-MLP \
 | Amazon-Computers  | 13752 | 245861 | 767| 10 | 
 | Amazon-Photo | 7650 | 119081 | 745 | 8 | 
 | Wiki-CS  | 11701 | 216123 | 300 | 10 |
+
+## Reference
+The Simlarity Enhanced Models are modified based on the following repositories:\
+GRACE： https://github.com/CRIPAC-DIG/GRACE \
+GCA: https://github.com/CRIPAC-DIG/GCA \
+Graph-MLP: https://github.com/yanghu819/Graph-MLP \
+
+## Running
