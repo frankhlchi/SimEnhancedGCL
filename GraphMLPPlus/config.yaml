@@ -1,0 +1,12 @@
+cora:
+    pos_tau: 0.7
+    neg_tau: 0.1
+    f_weight: 0.3
+citeseer:
+    pos_tau: 0.1
+    neg_tau: 0.0001
+    f_weight: 0.3
+pubmed:
+    pos_tau: 10
+    neg_tau: 0.0001
+    f_weight: 0
