@@ -19,4 +19,4 @@ GCA: https://github.com/CRIPAC-DIG/GCA \
 Graph-MLP: https://github.com/yanghu819/Graph-MLP 
 
 ## Running
-Please use the commands the Run.ipynb to reproduce the reported results 
+Please use the commands in the data_name_run.sh  to reproduce the reported results for the corresponding datasets
