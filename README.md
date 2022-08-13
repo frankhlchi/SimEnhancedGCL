@@ -2,9 +2,9 @@
 This is the code base for the paper "Enhancing Graph Contrastive Learning with Node Similarity".
 
 The Simlarity Enhanced Models are modified based on the following  repositories:\
-### Graph-MLP ###: https://github.com/yanghu819/Graph-MLP \
-## #GRACE ###： https://github.com/CRIPAC-DIG/GRACE \
-### GCA ###: https://github.com/CRIPAC-DIG/GCA \
+GRACE： https://github.com/CRIPAC-DIG/GRACE \
+GCA: https://github.com/CRIPAC-DIG/GCA \
+Graph-MLP: https://github.com/yanghu819/Graph-MLP \
 
 ## DataSet Statistics
 | Dataset  | #Nodes | #Edges | #Features | #Classes |		
