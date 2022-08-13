@@ -8,9 +8,10 @@ This is the code base for the paper "Enhancing Graph Contrastive Learning with N
 | Citeseer  | 3,327 | 4,732 | 3,703 | 6 |		
 | Pubmed  | 19,717 | 44,338 | 500 | 3 |		
 | DBLP  | 17,716 | 105,734 | 1,639 | 4 |		
-| Amazon-Computers  | 13752 | 245861 | 767| 10 | 
-| Amazon-Photo | 7650 | 119081 | 745 | 8 | 
-| Wiki-CS  | 11701 | 216123 | 300 | 10 |
+| Amazon-Computers  | 13,752 | 245861 | 767| 10 | 
+| Amazon-Photo | 7,650 | 119,081 | 745 | 8 | 
+| Wiki-CS  | 11,701 | 216,123 | 300 | 10 |
+| Coauthor-CS  | 18,333 | 81,894 | 6,805 | 15 |
 
 ## Reference
 The Simlarity Enhanced Models are developed based on:\
